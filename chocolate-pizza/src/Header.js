@@ -5,8 +5,8 @@ export default class Header extends Component {
         return (
             <div className='the-header'>
                 <img className='logo-img' alt='logo' src={this.props.logo} />
-                <h2>Delicious</h2>
-                <p>The best Food blog on the web</p>
+                <h2 id='delicious'>Delicious</h2>
+                <p id='speal'>The best Food blog on the web</p>
                 <div className='icons'>
                     <img src={this.props.fb} />
                     <img src={this.props.google} />
