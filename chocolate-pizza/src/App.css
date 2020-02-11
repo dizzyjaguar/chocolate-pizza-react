@@ -1,17 +1,40 @@
-.App {
+/* .App {
   text-align: center;
-}
+} */
 
 
 .App-link {
   color: #61dafb;
 }
 
+
 .the-header {
-  border: 1px solid #61dafb;
+  /* border: 1px solid #61dafb; */
+}
+
+.the-pizza-img {
+  
+}
+
+.directions-div {
+  /* border: 1px solid blue; */
+  text-align: center;
 }
 
 .p-div {
+  width: 75%;
+  margin: 0 auto;
+  font-size: small;
+}
+
+.recipe-div {
+  background-image: url('/assets/list-bg.png');
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.the-footer {
+  border: 1px solid black;
   width: 75%;
   margin: 0 auto;
 }
