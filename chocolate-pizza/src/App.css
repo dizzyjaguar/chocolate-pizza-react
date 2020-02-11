@@ -1,0 +1,153 @@
+/* .App {
+  text-align: center;
+} */
+
+
+.App-link {
+  color: #61dafb;
+}
+
+
+.the-header {
+  /* border: 1px solid #61dafb; */
+  width: 75%;
+  height: 150px;
+  margin: 30px auto 0 auto;
+}
+
+.logo-img {
+  position: relative;
+  top: 5px;
+}
+
+#delicious {
+  position: relative;
+  top: -80px;
+  left: 45px;
+  font-family: cursive;
+  font-size: 35px;
+  font-style: italic;
+}
+
+#speal {
+  font-size: 8px;
+  position: relative;
+  bottom: 120px;
+  left: 45px;
+}
+
+.icons {
+  text-align: end;
+  position: relative;
+  top: -170px;
+}
+
+.the-pizza-img {
+  
+  max-width: 100%;
+  
+}
+
+.directions-div {
+  /* border: 1px solid blue; */
+  text-align: center;
+  width: 75%;
+  margin: 0 auto;
+}
+
+.choco-title {
+  text-align: start;
+  position: relative;
+  left: 30px;
+}
+
+.date-p {
+  font-size: 10px;
+  text-align: start;
+  position: relative;
+  left: 50px;
+  bottom: 15px;
+}
+
+.p-div {
+  width: 75%;
+  margin: 0 auto;
+  font-size: small;
+}
+
+.recipe-div {
+  background-image: url('/assets/list-bg.png');
+  max-width: 800px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+li {
+  line-height: 30px;
+}
+
+#list1 li {
+  position: relative;
+  top: 5px;
+}
+
+
+#list2 {
+  position: relative;
+  bottom: 210px;  
+  /* border: 1px solid green; */
+}
+
+#list2 li {
+  position: relative;
+  left: 400px;
+
+}
+
+.the-footer {
+  /* border: 1px solid black; */
+  width: 75%;
+  margin: 0 auto 30px auto;
+}
+
+.the-footer h3 {
+  position: relative;
+  bottom: 80px;
+  left: 70px;
+  font-style: italic;
+}
+
+.the-footer p {
+  position: relative;
+  bottom: 95px;
+  left: 72px;
+  font-size: 10px;
+  opacity: .8;
+}
+
+.the-footer button {
+  float: right;
+  position: relative;
+  bottom: 100px;
+  right: 30px;
+  font-size: 20px;
+  background-color: darkorange;
+  color: antiquewhite;
+  width: 120px;
+  height: 50px;
+  border: 1px solid rgb(106, 101, 101);
+
+}
+
+.copyright {
+  width: 75%;
+  margin: 0 auto 10px auto;
+  font-size: 10px;
+  line-height: 1px;
+}
+
+.copyright p {
+  opacity: .9;
+  position: relative;
+  bottom: 15px;
+}
