@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+
+.App-link {
+  color: #61dafb;
+}
+
+.the-header {
+  border: 1px solid #61dafb;
+}
+
+.p-div {
+  width: 75%;
+  margin: 0 auto;
+}
