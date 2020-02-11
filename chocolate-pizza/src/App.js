@@ -3,6 +3,7 @@ import Header from './Header.js';
 import Directions from './Directions.js';
 import Recipe from './Recipe.js';
 import Footer from './Footer.js';
+import Copyright from './Copyright.js';
 import { paragraph1, paragraph2, paragraph3 } from './paragraphs.js'
 
 
@@ -25,6 +26,7 @@ render() {
 
     <Footer vanessa={'/assets/van-pic.png'}></Footer>
     
+    <Copyright></Copyright>
     </div>
   )
 }
